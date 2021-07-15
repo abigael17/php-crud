@@ -27,8 +27,8 @@ if (isset($_POST['u_name']) && isset($_POST['u_email'])) {
 
 <div class="container">
     <header class="header">
-        <h1 class="title">PHP CRUD Application</h1>
-        <p>By <a href="//www.w3jar.com">w3jar.com</a></p>
+        <h1 class="title">Chechis Crud Application</h1>
+        <p>By <a href="//www.chechi.com">Abigael</a></p>
     </header>
     <div class="wrapper">
         <div class="form">
